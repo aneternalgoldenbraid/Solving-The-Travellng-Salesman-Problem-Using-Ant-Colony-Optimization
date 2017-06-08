@@ -1,4 +1,4 @@
-# Solving The Travellng Salesman Problem Using Ant Colony Optimization
+# Karınca Kolonisi Optimizasyonu ile Gezgin Satıcı Problemi Çözümü
 
 Çalışma kapsamında hazırlanan KarincaAdam-2.0aGUI programı, Java programlama dili kullanılarak NetBeans IDE üzerinde geliştirilmiştir. Uygulamanın kaynak kodu ve export edilmiş zip dosyası Code klasöründe yer almaktadır. NetBeans üzerinde  File > Import Project > From ZIP yolu takip edilerek import edilebilir.
 
